@@ -1,4 +1,4 @@
-# Prediction-of-covid-19-using-chest-X-ray-images
+# Prediction of Covid-19 from chest X-ray images using Deep Learning
 
 Data taken from- https://github.com/RishitToteja/Chext-X-ray-Images-Data-Set.git
 
